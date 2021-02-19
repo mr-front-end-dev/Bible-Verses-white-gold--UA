@@ -1,0 +1,9 @@
+.main {
+  background-color: hsl(0, 0%, 100%);
+}
+
+.div__underline--lightgrey {
+  height: 35px;
+  width: 100%;
+  background-color: hsl(0, 0%, 83%);
+}
